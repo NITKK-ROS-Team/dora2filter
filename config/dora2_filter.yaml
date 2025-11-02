@@ -4,4 +4,4 @@ dora2_filter_node:
       name: dora2_filter
       type: dora2filter/Dora2Filter
       params:
-        threshold: 0.2
+        threshold: 0.83
