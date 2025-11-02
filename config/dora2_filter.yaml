@@ -1,0 +1,7 @@
+dora2_filter_node:
+  ros__parameters:
+    filter1:
+      name: dora2_filter
+      type: dora2filter/Dora2Filter
+      params:
+        threshold: 0.2

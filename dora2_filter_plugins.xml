@@ -1,0 +1,12 @@
+<class_libraries>
+  <library path="dora2_filter">
+    <class
+      name="dora2filter/Dora2Filter"
+      type="dora2filter::Dora2Filter"
+      base_class_type="filters::FilterBase&lt;sensor_msgs::msg::LaserScan&gt;">
+      <description>
+        A filter that removes beams whose neighbor direction aligns with the midpoint direction, similar to the copy_target prototype.
+      </description>
+    </class>
+  </library>
+</class_libraries>
