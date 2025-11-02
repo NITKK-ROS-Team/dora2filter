@@ -43,3 +43,9 @@ ros2 run laser_filters scan_to_scan_filter_chain --ros-args -r __node:=dora2_fil
 
 <img width="1731" height="554" alt="image" src="https://github.com/user-attachments/assets/a2e8d7ab-355f-4f3b-b176-35197e42b09a" />
 
+
+## References
+
+- [NITIC-Robot-Club/natto_library](https://github.com/NITIC-Robot-Club/natto_library/blob/main/src/sensing/natto_laser_filter/src/laser_filter.cpp)
+
+Special thanks : [@Doraemonjayo](https://github.com/Doraemonjayo)
